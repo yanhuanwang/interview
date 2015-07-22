@@ -1,0 +1,5 @@
+Makefile
+test
+*.o
+*.swp
+.DS_Store
